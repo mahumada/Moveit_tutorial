@@ -1,0 +1,8 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: awesomebot1000
+    relative_path: urdf/awesomebot1000.urdf.xacro
+  SRDF:
+    relative_path: config/awesomebot1000.srdf
+  CONFIG:
+    generated_timestamp: 1471545534
